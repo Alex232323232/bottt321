@@ -1,6 +1,5 @@
 discord.py
 asyncio
-json
 requests
 os
 random
